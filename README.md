@@ -1,1 +1,1 @@
-# PA-Project
+# Repository that contains the PA class project
